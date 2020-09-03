@@ -8,6 +8,7 @@ COMANDOS PARA USO DE CONSOLA----------------
    Asegurar agregarle la extension ".json" en el nombre de archivos.
    
 2.SELECCIONAR
+
   Este comando tiene 3 partes
   a) SELECCIONAR * --- al escribir este comando el programa imprimira todos los registros guardados en memoria
   b) SELECCIONAR * DONDE atributo = condicion --- En este tipo de comando el programa imprimira todo la informacion de un registro dado con una condicion para encontrarlo.
