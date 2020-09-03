@@ -2,7 +2,8 @@
 
 MANUAL DE USUARIO
 
-COMANDOS PARA USO DE CONSOLA----------------
+COMANDOS PARA USO DE CONSOLA
+----------------
 1. CARGAR 
    En este comando el usuario debera escribir la palabra 'comando' seguido de un espacio y el nombre de los archivos que se desea cargar a memoria, todos debidamente separados por ',' (comas).
    Asegurar agregarle la extension ".json" en el nombre de archivos.
@@ -10,6 +11,7 @@ COMANDOS PARA USO DE CONSOLA----------------
 2.SELECCIONAR
 
   Este comando tiene 3 partes 
+  
   a) SELECCIONAR * --- al escribir este comando el programa imprimira todos los registros guardados en memoria
   b) SELECCIONAR * DONDE atributo = condicion --- En este tipo de comando el programa imprimira todo la informacion de un registro dado con una condicion para encontrarlo.
   c) SELECCIONAR nombre, edad, promedio donde edad= 'dsfsd' --- este ejemplo de commando el programa imprimira SOLO los atributos escritos, debidamente con su atributo-condicion.
